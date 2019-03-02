@@ -20,7 +20,7 @@
  var arr_len=arr.length;
  var res=[]
  for(var i=0;i<arr_len;i+=len){
-      res.push(arr.splic(i,i+len))
+      res.push(arr.slice(i,i+len))
        }
  
 
