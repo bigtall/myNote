@@ -1,1 +1,3 @@
 ## bindtap与catchtap的区别
+* bind 有冒泡
+* catch 没有冒泡
