@@ -35,7 +35,37 @@
   {1,2,3},
   {4,5,6}
   ]
+
+
+* 数组的上移下移排序
+
+var reOrder=function(arr,index1,index2){
+arr[index1]=arr.splice(index2,1,arr[index1])[0];
+  }
        
-       
+ *上移 
+ 
+ up(arr,index){
+ if(index==0){
+ return
+ }
+ 
+ reOrder(arr,index,index-1)
+ 
+ }
+ 
+ *下移
+ 
+ down(arr,index){
+ if(arr.length-1==index) return
+ 
+ reOrder(arr,index,index+1)
+ 
+ 
+ }
+ 
+ 
+ 
+ 
  
              
