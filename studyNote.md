@@ -16,5 +16,14 @@ css中white-space的用法；控制容器内容元素不换行
 
 * 2021-01-05  
 css中text-overflow  
-css: 如何实现2行、3行折行，末尾省略。。。
+css: 如何实现2行、3行等多行文字移出效果，末尾省略。。。  
+.box {
+    width: 100px; 
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+
 
