@@ -14,3 +14,6 @@
 * 2020-12-31  
 css中white-space的用法；控制容器内容元素不换行
 
+* 2021-01-05  
+css中text-overflow
+
