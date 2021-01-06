@@ -1,8 +1,6 @@
 # 优质博客
 * [阮一峰](http://www.ruanyifeng.com/blog/)    
 
-* [大佬](http://blog.codingplayboy.com/article/133)
-
 # js
 * [深入理解javascript原型和闭包](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)
 
