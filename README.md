@@ -7,7 +7,9 @@
 # Vue
 * [vue学习看这篇就够了](https://juejin.cn/post/6844903548870721549)  
 
-* [vue与mock结合 finished](http://yangyi1024.com/)
+* [vue与mock结合 finished](http://yangyi1024.com/)  
+
+* [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/)
 
 # 搭建网站
 * Jekyll  
