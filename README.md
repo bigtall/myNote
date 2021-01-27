@@ -9,7 +9,9 @@
 
 * [vue与mock结合 finished](http://yangyi1024.com/)  
 
-* [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/)
+* [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/)  
+
+* [vue+vant+h5](https://juejin.cn/post/6844903863070228494#heading-6)
 
 # 搭建网站
 * Jekyll  
