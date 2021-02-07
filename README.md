@@ -11,7 +11,9 @@
 
 * [vue-element-admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/guide/)  
 
-* [vue+vant+h5](https://juejin.cn/post/6844903863070228494#heading-6)
+* [vue+vant+h5](https://juejin.cn/post/6844903863070228494#heading-6)  
+
+* [vuex入门学习](https://juejin.cn/post/6844903630517043214#heading-19)
 
 # 搭建网站
 * Jekyll  
