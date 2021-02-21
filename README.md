@@ -21,7 +21,13 @@
 # 前端面试题
 [前端每日一问](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues)    
 
-[面试必看系列](https://github.com/bigtall/Web/tree/master/13-%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95)
+[面试必看系列](https://github.com/bigtall/Web/tree/master/13-%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95)    
+
+
+[面试基本信息](https://github.com/bigtall/Web/tree/master/13-%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95)  
+
+
+
 
 # 前端进阶
 [进阶知识](https://github.com/yygmind/blog/issues/12)
