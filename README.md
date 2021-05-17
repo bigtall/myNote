@@ -32,7 +32,9 @@
 
 * [vue组件开发](https://www.jianshu.com/p/5f8a35e6666a)  
 
-* [vue源码](https://ustbhuangyi.github.io/vue-analysis/v2/prepare/)
+* [vue技术解密-源码](https://ustbhuangyi.github.io/vue-analysis/v2/prepare/)  
+
+* [vue源码](https://juejin.cn/post/6949370458793836580) 
 
 # webpack
 [基于 Webpack4 搭建 Vue 开发环境](https://juejin.cn/post/6844903692987023373#heading-11)  
