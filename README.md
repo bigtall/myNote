@@ -28,7 +28,11 @@
 
 * [vuex入门学习](https://juejin.cn/post/6844903630517043214#heading-19)  
 
-* [vue-element搭建系统](https://juejin.cn/post/6913351290525483022#heading-45)
+* [vue-element搭建系统](https://juejin.cn/post/6913351290525483022#heading-45)   
+
+* [vue组件开发](https://www.jianshu.com/p/5f8a35e6666a)  
+
+* [vue源码](https://ustbhuangyi.github.io/vue-analysis/v2/prepare/)
 
 # webpack
 [基于 Webpack4 搭建 Vue 开发环境](https://juejin.cn/post/6844903692987023373#heading-11)  
