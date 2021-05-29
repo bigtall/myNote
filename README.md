@@ -30,7 +30,9 @@
 
 * [vue-element搭建系统](https://juejin.cn/post/6913351290525483022#heading-45)   
 
-* [vue组件开发](https://www.jianshu.com/p/5f8a35e6666a)  
+* [vue组件开发](https://www.jianshu.com/p/5f8a35e6666a)   
+
+* [vue源码入门](https://cp_fe.gitee.io/course-advance/#/)
 
 * [vue技术解密-源码](https://ustbhuangyi.github.io/vue-analysis/v2/prepare/)  
 
