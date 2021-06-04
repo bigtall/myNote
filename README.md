@@ -23,7 +23,9 @@
 
 * [vue+vant+h5](https://juejin.cn/post/6844903863070228494#heading-6)  
 
-* [vue组件开发](https://www.jianshu.com/p/5f8a35e6666a)   
+* [vue组件开发和精讲](https://www.jianshu.com/nb/38706210)   
+
+* [vue内部运行机制](https://www.jianshu.com/nb/38750707) 
 
 * [vue技术解密-源码](https://ustbhuangyi.github.io/vue-analysis/v2/prepare/)  
 
