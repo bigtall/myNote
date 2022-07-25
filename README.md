@@ -2,11 +2,6 @@
 * [阮一峰](http://www.ruanyifeng.com/blog/)  
 
 
-
-
-
-# javscript  
-* [js30天练习](https://github.com/soyaine/JavaScript30)  
   
 * [深入理解javascript原型和闭包](https://www.cnblogs.com/wangfupeng1988/p/3977924.html)  
 
@@ -40,5 +35,24 @@
 *  图解http
 
 # 其他  
-[常用正则](https://www.cnblogs.com/hsinfo/p/13584432.html)
+[常用正则](https://www.cnblogs.com/hsinfo/p/13584432.html)   
+
+# 后端学习记录
+## java的学习
+- java基础学习
+- [韩顺平30天学会java](https://www.bilibili.com/video/BV1fh411y7R8?p=4)
+----
+
+
+# 日常记录  
+#### 2022-07-25
+- java视频学习
+
+
+
+
+
+
+
+
 
